@@ -1,7 +1,7 @@
 Hi 👋 My name is Jacoby
 =======================
 
-Enhancing my Financial/Data Analysis Skills through Coding Language Mastery
+Enhancing my Data Analysis Skills through Coding Language Mastery
 ---------------------------------------------------------------------------
 
 Financial Professional in the healthcare industry with a newfound love for coding languages and data manipulation.
