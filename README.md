@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi 👋 My name is Jacoby
+=======================
 
-<!--
-**JDBFinanceGraduate/JDBFinanceGraduate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Enhancing my Financial/Data Analysis Skills through Coding Language Mastery
+---------------------------------------------------------------------------
 
-Here are some ideas to get you started:
+Financial Professional in the healthcare industry with a newfound love for coding languages and data manipulation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Arlington, TX 
+<p align="left">
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
+                    
+                  
