@@ -4,7 +4,7 @@ Hi 👋 My name is Jacoby
 Enhancing my Data Analysis Skills through Coding Language Mastery
 ---------------------------------------------------------------------------
 
-Financial Professional in the healthcare industry with a newfound love for coding languages and data manipulation.
+Financial Professional in the Oil and Gas industry with a newfound love for coding languages and data manipulation.
 
 
 <p align="left">
